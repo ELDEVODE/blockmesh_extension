@@ -1,0 +1,19 @@
+{
+  "name": "blockmesh_extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify node_modules/level/index.js -o bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^8.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}

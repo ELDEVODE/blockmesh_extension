@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Bundled files
+bundle.js
+
+# Local Storage
+Local Storage/
